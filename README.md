@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Setup
+
+Copy `.env-example` to `.env` and update the variables accordingly. The variable `AGORA_CHANNEL` can be an arbitrary name.
+
+![project_config](https://user-images.githubusercontent.com/5312427/166714877-16a370bb-c61c-4234-8976-356faebc631c.png)
+
 ## Getting Started
 
 Copy `.env-example` in `.env.local` and update the env variables.
