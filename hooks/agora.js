@@ -1,6 +1,8 @@
 import React from 'react'
 
 /**
+ * Use the Agora services.
+ *
  * @returns {import("agora-rtm-sdk").default}
  */
 export const useRtm = () => {
@@ -17,6 +19,8 @@ export const useRtm = () => {
 }
 
 /**
+ * Use the Agora RTM Client to login and connect to a channel.
+ *
  * @param {string} appId
  * @returns {import("agora-rtm-sdk").RtmClient}
  */
