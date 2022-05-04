@@ -6,9 +6,14 @@ Copy `.env-example` to `.env` and update the variables accordingly (`AGORA_CHANN
 
 ![project_config](https://user-images.githubusercontent.com/5312427/166714877-16a370bb-c61c-4234-8976-356faebc631c.png)
 
-## Getting Started
+## Libraries and documentation:
 
-Copy `.env-example` in `.env.local` and update the env variables.
+1. [https://www.npmjs.com/package/agora-rtm-sdk](agora-rtm-sdk): Agora Real-time Messaging (aka Chat).
+2. [https://www.npmjs.com/package/agora-access-token](agora-access-token): Generate user tokens.
+
+Read more info at [Agora Real-time Messaging Overview](https://docs.agora.io/en/Real-time-Messaging/product_rtm?platform=Web).
+
+## Start the dev server
 
 Then, run the development server:
 
