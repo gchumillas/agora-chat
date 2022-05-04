@@ -8,8 +8,8 @@ Go to the [Agora Console](https://console.agora.io), copy `.env-example` to `.en
 
 ## Libraries and documentation:
 
-1. [https://www.npmjs.com/package/agora-rtm-sdk](agora-rtm-sdk): Agora Real-time Messaging (aka Chat).
-2. [https://www.npmjs.com/package/agora-access-token](agora-access-token): Generate user tokens.
+1. [agora-rtm-sdk](https://www.npmjs.com/package/agora-rtm-sdk): Agora Real-time Messaging (aka Chat).
+2. [agora-access-token](https://www.npmjs.com/package/agora-access-token): Generate user tokens.
 
 Read more at [Agora Real-time Messaging Overview](https://docs.agora.io/en/Real-time-Messaging/product_rtm?platform=Web).
 
