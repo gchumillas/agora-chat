@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Setup
 
-Copy `.env-example` to `.env` and update the variables accordingly. The variable `AGORA_CHANNEL` can be an arbitrary name.
+Copy `.env-example` to `.env` and update the variables accordingly (`AGORA_CHANNEL` can be an arbitrary name):
 
 ![project_config](https://user-images.githubusercontent.com/5312427/166714877-16a370bb-c61c-4234-8976-356faebc631c.png)
 
