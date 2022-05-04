@@ -15,9 +15,9 @@ Read more at [Agora Real-time Messaging Overview](https://docs.agora.io/en/Real-
 
 **Important files:**
 
-1. [/pages/api/rtm/token.js](pages/api/rtm/token.js): An end-point to generate user tokens.
-2. [/hooks/agora.js](hooks/agora.js): Hooks to connect to the Agora services.
-3. [/pages/index.js#L47](pages/index.js): The main page.
+1. [pages/api/rtm/token.js](/pages/api/rtm/token.js): An end-point to generate user tokens.
+2. [hooks/agora.js](/hooks/agora.js): Hooks to connect to the Agora services.
+3. [pages/index.js](/pages/index.js#47): The main page.
 
 ## Start the dev server
 
